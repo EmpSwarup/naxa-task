@@ -2,7 +2,7 @@ import logo from "../../assets/naxa-logo.png"
 
 const Navbar = () => {
   return (
-    <nav className="flex justify-between items-center py-3 px-8 text-white bg-transparent">
+    <nav className="flex justify-between items-center py-3 px-28 text-white bg-transparent">
       {/* Logo */}
       <div className="flex items-center">
         <img src={logo} alt="Naxa Logo" className="h-10" />

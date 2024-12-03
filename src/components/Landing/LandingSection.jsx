@@ -13,10 +13,10 @@ const LandingSection = () => {
       <Navbar />
 
       {/* Landing Content */}
-      <div className="text-start px-20 py-16">
-        <h1 className="text-base">SERVICES</h1>
-        <h2 className="text-5xl font-bold">At NAXA, we work on ideas; ideas that can provide simple solutions to complex problems.</h2>
-        <p className="mt-4 text-sm">
+      <div className="text-start px-28 py-16">
+        <h1 className="text-sm font-bold text-[#ffab00] mb-5">SERVICES</h1>
+        <h2 className="text-6xl font-medium w-4/5">At <span className="text-[#124af4]">NAXA</span>, we work on <span className="text-[#124af4]">ideas</span>; ideas that can provide <span className="text-[#124af4]">simple solutions</span> to <span className="text-[#124af4]">complex problems.</span></h2>
+        <p className="mt-8 font-semibold text-lg w-1/2">
         We work as a team to generate, explore, build and validate ideas. We also contextualize innovations around the world to find the best fitting solutions to local problems.
         </p>
       </div>
