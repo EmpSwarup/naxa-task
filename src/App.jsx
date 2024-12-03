@@ -1,13 +1,20 @@
 
 import './App.css'
+import NoticeBar from './components/NoticeBar/NoticeBar';
+import Navbar from './components/Navbar/Navbar';
+import LandingSection from './components/Landing/LandingSection';
+import ServicesSection from './components/Services/ServicesSection';
 
-function App() {
-
+const App = () => {
   return (
-    <>
-      <h1 className='text-red-500'>Hello</h1>
-    </>
-  )
-}
+    <div>
+      <NoticeBar />
+      <Navbar />
+      <LandingSection />
+      <ServicesSection />
+    </div>
+  );
+};
 
-export default App
+export default App;
+
