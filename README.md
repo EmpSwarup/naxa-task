@@ -52,7 +52,7 @@ This is a React-based web application designed to showcase a list of services of
    ```      
 
 ## How the App Works
-### PI Integration:
+### API Integration:
 The application uses fetchServicesStart to initiate the fetch call for services. The API data is stored in the Redux store upon successful fetching (fetchServicesSuccess), and any errors are caught and stored using fetchServicesFailure.
 
 ### Redux-Saga:
