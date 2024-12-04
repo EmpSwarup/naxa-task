@@ -22,7 +22,7 @@ const LandingSection = () => {
       <div className="lg:hidden">
         <MobileNavbar />
       </div>
-      <div className="text-start px-4 sm:px-8 md:px-12 lg:px-28 py-8 md:py-12 lg:py-20">
+      <div className="text-start px-4 sm:px-8 md:px-12 lg:px-28 py-8 md:py-12 lg:py-28">
         <h1 className="text-xs sm:text-sm font-bold text-[#ffab00] mb-3 sm:mb-5">
           SERVICES
         </h1>
