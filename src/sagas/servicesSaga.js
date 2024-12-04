@@ -1,5 +1,5 @@
 import { call, put, takeEvery } from 'redux-saga/effects';
-import { fetchServicesStart, fetchServicesSuccess, fetchServicesFailure } from './servicesSlice';
+import { fetchServicesStart, fetchServicesSuccess, fetchServicesFailure } from '../slices/servicesSlice';
 
 function* fetchServicesSaga() {
   try {

@@ -1,6 +1,6 @@
 import { useEffect } from "react";
 import { useDispatch, useSelector } from "react-redux";
-import { fetchServicesStart } from "../../services/servicesSlice";
+import { fetchServicesStart } from "../../slices/servicesSlice";
 
 const Services = () => {
   // Dispatch function to send actions to the store
