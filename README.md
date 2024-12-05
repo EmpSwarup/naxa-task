@@ -29,8 +29,8 @@ This is a React-based web application designed to showcase a list of services of
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/naxa-services-app.git
-   cd naxa-services-app
+   git clone https://github.com/your-username/naxa-task.git
+   cd naxa-task
    ```
 
 2. **Install dependencies:**
