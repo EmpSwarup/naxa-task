@@ -29,7 +29,7 @@ This is a React-based web application designed to showcase a list of services of
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/naxa-task.git
+   git clone https://github.com/EmpSwarup/naxa-task.git
    cd naxa-task
    ```
 
